@@ -1,0 +1,2 @@
+# Technology-Market-Intelligence-Competitive-Due-Diligence-Platform
+Technology Market Intelligence &amp; Competitive Due Diligence Platform built using Python, machine learning, and data analytics. Analyzes startup ecosystems, funding trends, investor activity, competitive landscapes, and emerging technology sectors. Generates due diligence scores, market intelligence dashboards, and executive-level insights.
